@@ -8,3 +8,11 @@
 
 ```bash
 npx otter-ask "how does authentication work?"
+          __
+     .--.  | __|
+    |   :--:__|
+    |  .|   |
+    |   |  /
+    |  /  /
+    |___/ 
+   Philosopher Otter is thinking...
